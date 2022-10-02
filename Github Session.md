@@ -1,5 +1,7 @@
 # Github session
 
+Welcome to our session. let's get started with github. Before we jump into it we need to know a few things and terms related to it. You can see the README.md for resources related to git/github. Now let us get started with Open Source.
+
 ## Git
 
 Git is a widely-used version control system used to manage code. Nearly 70% of developers use Git, according to a Stack Overflow survey.
