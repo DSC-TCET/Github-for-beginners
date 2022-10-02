@@ -63,6 +63,9 @@ Follow below steps to create a new repo on your local machine and push it to you
 |------------------------|-------------------------------------|
 | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-repo.jpg" width="500"> | <img src="imgs/github.png" width="500"> |
 
+  Now that you have created your local github repo, push it to github. It will allow others to see your work and for collaborations. You can view your local repo now on github and share it with others.
+  
+
 | Publish your repo to remote | Published on github | 
 |-----------------------------|-------------------------------------|
 | <img src="imgs/github4.png" width="500"> | <img src="imgs/github5.png" width="500"> |
