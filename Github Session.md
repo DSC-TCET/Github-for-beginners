@@ -59,11 +59,11 @@ Follow below steps to create a new repo on your local machine and push it to you
 
 | Create new repository  | Repo will be on your local computer | 
 |------------------------|-------------------------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-repo.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-create-repo.jpg" width="500"> |
+| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-repo.jpg" width="500"> | <img src="imgs/github.png" width="500"> |
 
 | Publish your repo to remote | Published on github | 
 |-----------------------------|-------------------------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-publish-repo.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-github-repo.jpg" width="500"> |
+| <img src="imgs/github4.png" width="500"> | <img src="imgs/github5.png" width="500"> |
 
 ### Commit in GitHub Desktop
 
@@ -77,9 +77,13 @@ To make our first commit, we first need to modify one of the files in our reposi
 
 - When we’re ready to commit, we can simply click “Commit to main.
 
-| Make changes to the file  | Commit your changes | 
-|---------------------------|---------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-readme.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-commit.jpg" width="500"> |
+<div align="center">
+  
+  | Make changes to the file  & Commit your changes | 
+  |-------------------------------------------------|
+  | <<img src="imgs/github8.png" width="500" >|
+  
+ </div>
 
 Congratulations! You just learned how to perform a Git commit using GitHub Desktop.
 
@@ -88,7 +92,7 @@ Your commit is currently local to your computer. If you want the changes to the 
 Now when you navigate to your codecademy-git-test repository on github.com, you should see your updated README file:
 | Push origin  | Published on github | 
 |--------------|-------------------------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-push-origin.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-github-readme.jpg" width="500"> |
+| <img src="imgs/github9.png" width="500"> | <img src="imgs/github10.png" width="500"> |
 
 ### Fetch/Pull in GitHub Desktop
 
@@ -96,20 +100,20 @@ When you collaborate with other people on a repository, you will want to see wha
 
 In Git, fetching is the process of updating your files with the most recent changes. Luckily, GitHub Desktop makes fetching changes easy.
 
-Let’s suppose that someone made an update to our README file from the previous example. The README file now looks like this:
+Let’s suppose that someone made an update to our README file from the previous example. After making changes scroll down & click the green commit button.
 
 You should click “Fetch origin” so that the changes are fetched in Github desktop :
 
 
 | Update the readme file  | Fetch your remote changes | 
 |-------------------------|---------------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-new-readme.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-fetch-origin.jpg" width="500"> |
+| <img src="imgs/github11.png" width="500"> | <img src="imgs/github13.png" width="500"> |
 
 Next, you should click “Pull origin” so that the changes are reflected in the files on your local machine:
 
 Now, navigate to the local folder on your Desktop (or wherever you chose to locate it). If you open the README file, you will notice that the changes made to the file are correctly shown:
 
-| Update the readme file  | Fetch your remote changes | 
-|-------------------------|---------------------------|
-| <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-pull-origin.jpg" width="500"> | <img src="https://content.codecademy.com/articles/Git-and-GitHub-Desktop/what-is-git-new-readme-local.jpg" width="500"> |
+| Pull your remote changes  | See updated local readme file | 
+|---------------------------|---------------------------------|
+| <img src="imgs/github14.png" width="500"> | <img src="imgs/github15.png" width="500"> |
 
