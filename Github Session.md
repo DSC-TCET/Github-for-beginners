@@ -172,5 +172,20 @@ The owner can also request changes if necessary any actions to your PR will be n
 |----------------------------------------|---------------------------------|
 | <img src="imgs/github24.png" width="500"> | <img src="imgs/github25.png" width="500"> |
 
+### Updating your Fork with the Original repo
+
+When many people work on a repo it can get messed up. Hence it is necessary to update your fork constatntly and pull those changes to your local repo. Before you can push any changes make sure to pull changes from the working repo.
+
+Below is how you update your branch. After updating it , you must pull those changes through github desktop.
+
+<div align="center">
+  
+  | Update your Fork constantly to stay on par with the source repo| 
+  |----------------------------------------------------------------|
+  | <<img src="imgs/github19.png" width="750" >|
+  
+ </div>
+
+
 Happy hacking ! way to go. Welcome to OPEN SOURCE ❤️🙌
 
