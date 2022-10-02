@@ -81,7 +81,7 @@ To make our first commit, we first need to modify one of the files in our reposi
   
   | Make changes to the file  & Commit your changes | 
   |-------------------------------------------------|
-  | <<img src="imgs/github8.png" width="500" >|
+  | <<img src="imgs/github8.png" width="700" >|
   
  </div>
 
@@ -116,4 +116,56 @@ Now, navigate to the local folder on your Desktop (or wherever you chose to loca
 | Pull your remote changes  | See updated local readme file | 
 |---------------------------|---------------------------------|
 | <img src="imgs/github14.png" width="500"> | <img src="imgs/github15.png" width="500"> |
+
+### Fork and Clone a repository
+
+To fork a repository go the repo on github website and the click on Fork.
+
+This will create a fork in your remote github.
+
+<div align="center">
+  
+  | Create a Fork of the repository you want to contribute  | 
+  |---------------------------------------------------------|
+  | <<img src="imgs/github16.png" width="750" >|
+  
+ </div>
+
+Now, create a clone of the forked repository in your github desktop:
+
+First click on add a clone then choose from the list of forked repository you have and then click on clone. It will create a copy of the repo on your github desktop which will be stored locally on your computer.
+
+
+| Clone the repository  | Complete the process | 
+|-----------------------|----------------------|
+| <img src="imgs/github18.png" width="500"> | <img src="imgs/github17.png" width="500"> |
+
+### Making Changes to the forked repository & submitting a PR
+
+Add a file your_name.txt to the forked repo. Go to your remote github and add a file. Now edit that file with some text and then Commit your changes.
+You can click on contribute and create pull request as your forked repo is ahead of the original repo. So your PR will bring it on the same level and synchronize it.
+
+
+| Make changes to your fork and commit  | How to open a pull request| 
+|---------------------------------------|----------------------|
+| <img src="imgs/github20.png" width="500"> | <img src="imgs/github21.png" width="500"> |
+
+Now you will be directed to an option to create a pull request. once you do that it will notify the owner of the repo in the pull request section. Now they will review your changes.
+
+| Create your first PR  | Your PR can be seen in the pull request section | 
+|---------------------------------------|---------------------------------|
+| <img src="imgs/github22.png" width="500"> | <img src="imgs/github23.png" width="500"> |
+
+### Getting your PR merged successfully !
+
+Now , the owner can navigate to PR sectiona and review your changes, if they approve of your PR , it will be merged into the main branch and tadaaa!!!! You just created your first PR. Get yourself going forward <3🚀🚀🚀
+
+The owner can also request changes if necessary any actions to your PR will be notified. Always Keep patience.
+
+
+| How owner will see your PR & review it | Your first PR successfully merged! | 
+|----------------------------------------|---------------------------------|
+| <img src="imgs/github24.png" width="500"> | <img src="imgs/github25.png" width="500"> |
+
+Happy hacking ! way to go. Welcome to OPEN SOURCE ❤️🙌
 
